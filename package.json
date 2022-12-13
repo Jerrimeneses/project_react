@@ -1,5 +1,5 @@
 {
-  "homepage": "https://jerrimeneses.github.io/project_react.git",
+  "homepage": "https://jerrimeneses.github.io/project_react",
   "name": "project_react",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://$token_react@github.com/Jerrimeneses/project_react.git"
+    "deploy": "gh-pages -d build -r https://$token_react@github.com/Jerrimeneses/project_react"
   },
   "eslintConfig": {
     "extends": [
